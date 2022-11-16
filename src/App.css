@@ -1,8 +1,21 @@
+body {
+  background: #dcfdfb;
+}
+
+a {
+  color: #1a1e86;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-header {
   margin: 30px 0;
 }
 
-.img-fluid {
+.App-logo {
   max-width: 200px;
   display: block;
   margin: 0 auto;
